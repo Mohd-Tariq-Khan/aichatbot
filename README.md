@@ -1,2 +1,2 @@
 # aichatbot
-A modern, interactive FAQ chatbot built using HTML, CSS, and JavaScript that provides answers to theoretical programming and computer science questions.
+A modern, interactive FAQ chatbot built using HTML, CSS, and JavaScript that provides answers to theoretical programming and computer science questions. The application features a clean and responsive user interface, quick-reply suggestion chips for enhanced user engagement, and an intelligent keyword-based matching system that understands user intent without requiring exact question phrasing. Designed to deliver a seamless learning experience, the chatbot helps users quickly access programming concepts, technologies, and development-related knowledge through an intuitive conversational interface.
