@@ -41,6 +41,9 @@ Type a question such as:
 - What is AI?
 - What is GitHub?
 
+## Deployment link 
+Link : https://aichatbot-tariq.vercel.app/
+
 Type `cls` to clear the chat.
 
 ## Author
