@@ -44,7 +44,6 @@ Type a question such as:
 ## Deployment link 
 Link : https://aichatbot-tariq.vercel.app/
 
-Type `cls` to clear the chat.
 
 ## Author
 
