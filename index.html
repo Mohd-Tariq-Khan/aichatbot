@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI FAQ Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+
+<div class="header">
+    <h1> Programming FAQ Chatbot</h1>
+</div>
+
+<div id="chatBox" class="chat-box">
+
+    <div class="bot-message">
+        Hello! 👋 Ask me about React, JavaScript, Git, AI, MERN and more.
+    </div>
+
+</div>
+
+<div class="suggestions">
+    <button id="themeBtn">🌙</button>
+    <button onclick="quickAsk('What is React?')">What is React?</button>
+    <button onclick="quickAsk('What is MERN Stack?')">What is MERN?</button>
+    <button onclick="quickAsk('What is AI?')">What is AI?</button>
+</div>
+
+<div class="input-area">
+    <input
+        type="text"
+        id="userInput"
+        placeholder="Ask your question..."
+        onkeypress="handleKey(event)"
+    >
+    <button onclick="sendMessage()">Send</button>
+</div>
+
+
+</div>
+
+<script src="faqData.js"></script>
+
+<script src="script.js"></script>
+
+</body>
+</html>
